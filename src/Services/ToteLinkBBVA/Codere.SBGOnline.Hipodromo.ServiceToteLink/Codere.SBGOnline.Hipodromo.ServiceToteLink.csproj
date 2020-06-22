@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Codere.SBGOnline.Hipodromo.Domain\Codere.SBGOnline.Hipodromo.Domain.csproj" />
+    <ProjectReference Include="..\Codere.SBGOnline.Hipodromo.Infrastructure\Codere.SBGOnline.Hipodromo.Infrastructure.csproj" />
+  </ItemGroup>
+
+</Project>

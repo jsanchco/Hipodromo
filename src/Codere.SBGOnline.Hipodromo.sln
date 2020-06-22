@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Codere.SBGOnline.Hipodromo.API", "Services\ToteLinkBBVA\Codere.SBGOnline.Hipodromo.API\Codere.SBGOnline.Hipodromo.API.csproj", "{EEEBFD49-B431-4401-9592-0C3105571CA7}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Codere.SBGOnline.Hipodromo.Domain", "Services\ToteLinkBBVA\Codere.SBGOnline.Hipodromo.Domain\Codere.SBGOnline.Hipodromo.Domain.csproj", "{809A1843-4967-43F2-82B8-29583A6BBE02}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Codere.SBGOnline.Hipodromo.Infrastructure", "Services\ToteLinkBBVA\Codere.SBGOnline.Hipodromo.Infrastructure\Codere.SBGOnline.Hipodromo.Infrastructure.csproj", "{3ABA1DD1-E9C7-49C5-8AA6-72B6EE55B6DA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Codere.SBGOnline.Hipodromo.ServiceToteLink", "Services\ToteLinkBBVA\Codere.SBGOnline.Hipodromo.ServiceToteLink\Codere.SBGOnline.Hipodromo.ServiceToteLink.csproj", "{8650ED72-6CE1-45F0-AE06-E132C1ADFAAF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EEEBFD49-B431-4401-9592-0C3105571CA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EEEBFD49-B431-4401-9592-0C3105571CA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EEEBFD49-B431-4401-9592-0C3105571CA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EEEBFD49-B431-4401-9592-0C3105571CA7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{809A1843-4967-43F2-82B8-29583A6BBE02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{809A1843-4967-43F2-82B8-29583A6BBE02}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{809A1843-4967-43F2-82B8-29583A6BBE02}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{809A1843-4967-43F2-82B8-29583A6BBE02}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3ABA1DD1-E9C7-49C5-8AA6-72B6EE55B6DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3ABA1DD1-E9C7-49C5-8AA6-72B6EE55B6DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3ABA1DD1-E9C7-49C5-8AA6-72B6EE55B6DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3ABA1DD1-E9C7-49C5-8AA6-72B6EE55B6DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8650ED72-6CE1-45F0-AE06-E132C1ADFAAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8650ED72-6CE1-45F0-AE06-E132C1ADFAAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8650ED72-6CE1-45F0-AE06-E132C1ADFAAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8650ED72-6CE1-45F0-AE06-E132C1ADFAAF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {351F89D7-050F-401D-852B-B3D848634C73}
+	EndGlobalSection
+EndGlobal
